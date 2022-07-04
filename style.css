@@ -72,6 +72,9 @@ h3{
     margin-right: 5%;
     padding-left: 15px;
     padding-right: 15px;
-    
+
     box-shadow: 10px 10px 40px gray;
+}
+h2{
+    font-size: 40px;
 }
