@@ -51,4 +51,15 @@ h3{
     color: white;
     box-shadow: 0 0 35px rgb(14, 13, 13);
     transition: .6s ease-in-out;
+
+}
+#top{
+    background-image: url("images/top-banner.png") ;
+    background-repeat: no-repeat;
+
+}
+#mid{
+    background-image: url("images/dream-bg.png");
+    background-repeat: no-repeat;
+    background-position: right;
 }
