@@ -1,7 +1,7 @@
 *{
     margin: 0;
     padding: 0;
-    box-sizing: border-box;
+
 }
 .container{
     display: flex;
@@ -72,7 +72,7 @@ h3{
     margin-right: 5%;
     padding-left: 15px;
     padding-right: 15px;
-
+    padding-bottom: 20px;
     box-shadow: 10px 10px 40px gray;
 }
 h2{
