@@ -3,7 +3,7 @@
     padding: 0;
     box-sizing: border-box;
 }
-section{
+.container{
     display: flex;
 }
 h1{
@@ -53,13 +53,25 @@ h3{
     transition: .6s ease-in-out;
 
 }
-#top{
+.top{
     background-image: url("images/top-banner.png") ;
     background-repeat: no-repeat;
 
 }
-#mid{
+.mid{
     background-image: url("images/dream-bg.png");
     background-repeat: no-repeat;
     background-position: right;
+}
+.color{
+    color: orange;
+}
+.exprance{
+    width: 40%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-left: 15px;
+    padding-right: 15px;
+    
+    box-shadow: 10px 10px 40px gray;
 }
